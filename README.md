@@ -8,7 +8,7 @@ La idea es estructurar en diferentes apartados según nivel, herramientas y fram
 
 **Si tienes un material animate y envía un pull request.**
 
-Plantilla
+> **Plantilla:**
 * [Título](https://luisfuentes.me/introduccion-webpack/)- Pequeña introduccion [Nivel de dificultad Fácil|Intermedio|Dificil][Idioma Español|Inglés][Tipo de recurso Post|Video]
 
 ## JavaScript
